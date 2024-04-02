@@ -1,6 +1,6 @@
 // Import the necessary library for keypad functionality
-// #include <Keypad.h>
-// #include <Keyboard.h>
+#include <Keypad.h>
+#include <Keyboard.h>
 
 // Define the number of rows and columns in the keypad matrix
 const byte ROWS = 4;
